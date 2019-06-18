@@ -1,2 +1,1 @@
-# resume
-Resume namdaik
+## Resume namdaik - [Demo](https://namdaik.com)
